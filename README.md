@@ -215,10 +215,3 @@ git push
 All code must be pushed before:
 
 `Friday at 3:30PM EST`
-
-### 5. Code Ownership
-
-By participating, you acknowledge:
- - This repository is owned by Solar Landscape.
- - All submitted code remains in this repository after the event.
- - The organization may use, modify, or build upon submitted projects.
