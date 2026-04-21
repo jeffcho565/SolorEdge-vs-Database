@@ -2,17 +2,6 @@
 
 Welcome to the Solar Landscape Hackathon.
 
-This repository is owned by Solar Landscape and is public during the event to enable collaboration. All work submitted here becomes part of the official hackathon record.
-
----
-
-## Repository Rules
-
-- This repository is public during the hackathon, but will moved to a private repository after the hackathon.
-- Do not commit secrets (API keys, tokens, passwords, connection strings).
-- All work must be committed to GitHub by the submission deadline.
-- The final state of your team branch at the deadline will be used for judging.
-
 ---
 
 ## Project Overview
